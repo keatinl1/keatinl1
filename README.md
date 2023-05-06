@@ -1,4 +1,13 @@
 ### Hi there 👋
+###
+###
+I'm Luke, a mechanical engineering graduate working at a robotics company in Dublin
+###
+###
+I have interests in control engineering, signal processing and statistics
+###
+###
+You can also find me on [LinkedIn](https://www.linkedin.com/in/keatinl1/) or email me at <a href="mailto:keatinl1@tcd.ie">keatinl1@tcd.ie</a>
 
 <!--
 **keatinl1/keatinl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
