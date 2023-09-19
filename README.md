@@ -1,10 +1,10 @@
 ### Hi there 👋
 ###
 ###
-I'm Luke, a mechanical engineering graduate working at a robotics company in Dublin
+I'm Luke, a mechanical engineering graduate in Dublin
 ###
 ###
-I have interests in control engineering, signal processing and statistics
+I have interests in control, optimisation, signal processing and statistics
 ###
 ###
 You can also find me on [LinkedIn](https://www.linkedin.com/in/keatinl1/) or email me at <a href="mailto:keatinl1@tcd.ie">keatinl1@tcd.ie</a>
