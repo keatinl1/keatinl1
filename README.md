@@ -4,7 +4,7 @@
 I'm Luke, a mechanical engineering graduate in Dublin
 ###
 ###
-I have interests in control and signal processing
+I have interests in control and AI
 ###
 ###
 You can also find me on [LinkedIn](https://www.linkedin.com/in/keatinl1/) or email me at <a href="mailto:keatinl1@tcd.ie">keatinl1@tcd.ie</a>
