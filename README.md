@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###
 ###
-I'm Luke, a mechanical engineering graduate in Dublin
+I'm Luke, a mechanical engineering graduate working in robotics
 ###
 ###
 I have interests in control and AI
