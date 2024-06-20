@@ -1,13 +1,10 @@
 ### Hi there 👋
 ###
 ###
-I'm Luke, a mechanical engineering graduate working in robotics
+I'm Luke, a mechanical engineer specializing in robotics. I have a strong passion for control engineering and mechanical design.
 ###
 ###
-I have interests in control and AI
-###
-###
-You can also find me on [LinkedIn](https://www.linkedin.com/in/keatinl1/) or email me at <a href="mailto:keatinl1@tcd.ie">keatinl1@tcd.ie</a>
+Feel free to connect with me on LinkedIn or reach out via email at <a href="mailto:keatinl1@tcd.ie">keatinl1@tcd.ie</a>.
 
 <!--
 **keatinl1/keatinl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
