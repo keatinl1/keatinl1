@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###
 ###
-I'm Luke, an engineer passionate about model-based systems
+I'm Luke, an engineer passionate about technology
 ###
 ###
 <!--
