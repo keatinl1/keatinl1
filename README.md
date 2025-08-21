@@ -1,7 +1,7 @@
 ### Hi there 👋
 ###
 ###
-I'm Luke, an engineer passionate about technology
+I'm Luke, an engineer passionate about problem solving and technology
 ###
 ###
 <!--
